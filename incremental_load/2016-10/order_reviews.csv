@@ -1,207 +1,207 @@
 review_id,order_id,review_score,review_comment_title,review_comment_message,review_creation_date,review_answer_timestamp
-2685a4800004a12ec09d27264ff1915f,5c973d2b4652e1dec15353b59339f3b4,5,,Recomendo a todos os clientes,2016-10-22 00:00:00,2016-10-26 17:47:19
-d36219dfadc3a5b07ab66670d23915ad,22613579f7d11cc59c4347526fc3c79e,5,,"Acho que rastreando o produto devia ser melhor e mais preciso, mas no geral foi uma ótima experiência ",2016-10-19 00:00:00,2016-10-20 12:40:59
+2685a4800004a12ec09d27264ff1915f,5c973d2b4652e1dec15353b59339f3b4,5,,Recomendo a todos os clientes,10/22/2016 0:00,10/26/2016 17:47
+d36219dfadc3a5b07ab66670d23915ad,22613579f7d11cc59c4347526fc3c79e,5,,Acho que rastreando o produto devia ser melhor e mais preciso mas no geral foi uma ótima experiência ,10/19/2016 0:00,10/20/2016 12:40
 2f17f8ffe35062ac9d76c4dde9c181eb,06d7e8a85f5cfef576c5303ed7d7f2e5,4,,"Entrega feita no prazo e produto em perfeitas condicoes
-Parabens a equipe",2016-10-20 00:00:00,2016-10-20 21:56:45
-0ed5802ea93f04e9bf2364c664dadbbd,96123b9ae5a9cdfd4efe5fe402a94675,1,,"Fornecedor targaryen me mandou um massageador completamente diferente do que comprei, de preço inferior e cheio de avaliações negativas. Ninguém erra mandando um superior né, curioso..Ou seja, n recomendo",2016-10-28 00:00:00,2016-11-01 18:44:47
-47a9e6e1a6807dc6ebcb3db41d09a60c,a041155864e5141116458291313b35c2,5,,,2016-10-26 00:00:00,2016-10-26 22:59:11
-71e7648c5decbc8e841f8dc2be52e8cf,f7886facb594e65f0c41cdbb0583b560,5,,,2016-10-21 00:00:00,2016-10-23 23:34:41
-95452206aa8abd78a57303bc16b736ed,a08d1f4b300c3d7ec52f5f9a74234eca,5,,Excelente...... SÓ faltou o manual do produto. Fora isso gostei muito.,2016-10-27 00:00:00,2016-10-28 10:03:06
-65128c95d2309170ba0cba5492047e06,d2d67121a09535b3a7b6a000e58d8625,3,,Achei um pouco demorado a entrega,2016-10-25 00:00:00,2016-11-12 21:28:56
-49f695dffa457eaba90d388a5c37e942,e5215415bb6f76fe3b7cb68103a0d1c0,1,,"PRODUTO NÃO CHEGOU,E JÁ PASSOU O PRAZO DE ENTREGA",2016-10-09 00:00:00,2016-10-11 14:31:29
-e40c852179d8d8068f524eff6a6effb6,1a2b0033f0b7a3116f00594ec5524344,4,,O produto chegou na minha cidade mas não na minha residência pois os correios são um órgão cheio de falhas com isso não levou até a minha casa tive o transtorno de ir buscar o objeto na sede mas próxi,2016-10-22 00:00:00,2016-10-22 20:00:34
-ffe4b0eb9c831fb681f3606b8a2d4510,de1404a068c6c8c909897886a314bad7,5,,"Produto chegou bem embalado, e atendeu minhas expectativas.
+Parabens a equipe",10/20/2016 0:00,10/20/2016 21:56
+0ed5802ea93f04e9bf2364c664dadbbd,96123b9ae5a9cdfd4efe5fe402a94675,1,,Fornecedor targaryen me mandou um massageador completamente diferente do que comprei de preço inferior e cheio de avaliações negativas. Ninguém erra mandando um superior né curioso..Ou seja n recomendo,10/28/2016 0:00,11/1/2016 18:44
+47a9e6e1a6807dc6ebcb3db41d09a60c,a041155864e5141116458291313b35c2,5,,,10/26/2016 0:00,10/26/2016 22:59
+71e7648c5decbc8e841f8dc2be52e8cf,f7886facb594e65f0c41cdbb0583b560,5,,,10/21/2016 0:00,10/23/2016 23:34
+95452206aa8abd78a57303bc16b736ed,a08d1f4b300c3d7ec52f5f9a74234eca,5,,Excelente...... SÓ faltou o manual do produto. Fora isso gostei muito.,10/27/2016 0:00,10/28/2016 10:03
+65128c95d2309170ba0cba5492047e06,d2d67121a09535b3a7b6a000e58d8625,3,,Achei um pouco demorado a entrega,10/25/2016 0:00,11/12/2016 21:28
+49f695dffa457eaba90d388a5c37e942,e5215415bb6f76fe3b7cb68103a0d1c0,1,,PRODUTO NÃO CHEGOUE JÁ PASSOU O PRAZO DE ENTREGA,10/9/2016 0:00,10/11/2016 14:31
+e40c852179d8d8068f524eff6a6effb6,1a2b0033f0b7a3116f00594ec5524344,4,,O produto chegou na minha cidade mas não na minha residência pois os correios são um órgão cheio de falhas com isso não levou até a minha casa tive o transtorno de ir buscar o objeto na sede mas próxi,10/22/2016 0:00,10/22/2016 20:00
+ffe4b0eb9c831fb681f3606b8a2d4510,de1404a068c6c8c909897886a314bad7,5,,"Produto chegou bem embalado e atendeu minhas expectativas.
 Super recomendo!!
-Parabéns Equipe baratheon.",2016-10-27 00:00:00,2016-10-30 00:27:55
-d674c265c1b5c2cc34594ae6fbfee3a7,a8846701b9f3e21e64c9062ed3f4dfd7,5,,Foi ótimo chegou antes do prazo,2016-10-25 00:00:00,2016-10-27 13:26:50
-eb0a5e66d996050334014587b1c8699c,04bc36cd51141e11c2cbbd188b6e47ca,5,,,2016-10-21 00:00:00,2016-10-22 00:14:57
-d429df0b5f44f13b731c74ef28e7e6c8,b04bd4e0a1a21fef81b1f24f6fb81c08,5,,parabens pela atençao e eficiencia ,2016-10-25 00:00:00,2016-10-28 17:42:46
-9d4df583085fec1900dfac4efd0b085a,2e32dea8a4d1ae5499a67674b387bc6a,1,,"comprei duas cortinas a malha pessima,lamentavel, uma esta em fase de devoluçao ,mas nao recomendo esse vendedormas gostaria de fazer a devoluçao das duas sem mais.aparecida",2016-10-28 00:00:00,2016-10-31 05:02:55
-5d369f0070f24cb17ec69c8ae95b85c3,b88cd65e1d90bf6e185bf9b6f0b614cd,1,,Minha película de vidro veio quebrada e não veio junto com o celular. Tive que esperar muito tempo e não deu pra usar.,2016-10-25 00:00:00,2016-10-29 15:24:58
-f96addf36d6a28a79c165d92ea17f361,e2ea01f68f92f0c55b08ca739af834b6,5,,,2016-10-28 00:00:00,2016-11-07 15:58:21
-8e8cc3353ea9bd13e1450d8fa269d474,ed3d575bd3358123b063ee64cdecdef5,5,,Chego dentro do prazo tudo bem embalado,2016-10-18 00:00:00,2016-10-18 20:29:05
-74515ea15719d4a06f557320b824c8b0,98750f114ae6088d04ea0d3cfe3f137f,5,,,2016-10-29 00:00:00,2016-10-31 20:16:28
-da0cd4b04372ffaaed0bdb2852e8da0f,8e7ef380ad5ae407dffbe2f0826cae73,5,,Produto entregue antes do prazo,2016-10-21 00:00:00,2016-10-24 11:38:29
-b2fc2fac36fdef519925b2f55a95d8e4,85841af0d94e5d0cd3a9c0e42e565b74,5,,,2016-10-18 00:00:00,2016-12-06 20:48:13
-abd41883b42247d56967cfebfa2c831a,a241bea87dcdd0160ca94ebdba5bdbb9,5,,recomendo a todos os usuarios do site pois tudo foi conforme o combinado.,2016-10-19 00:00:00,2016-10-20 00:34:22
-0aa8b628ffe8130e26b668f9f3a2f6ef,f7310018040436b01ab03f81b301b5de,1,,Realizei minha compra no dia 10/10 porém só chegou 1 produto sendo que paguei por 3 unidades MOP Spray. Estou muito insatisfeita inclusive com o atendimento.,2016-10-25 00:00:00,2016-10-31 16:21:14
-dbf347b3a608b8550ee645b0f4e4dda9,f001655c8c646cd1b5185bbc2e7534f3,5,,"super recomendo, sempre uso esse perfume e gosto bastante.",2016-10-27 00:00:00,2016-10-28 01:19:59
-7d58a5b4bc501c1ece8972fa04351be2,36989eb07a0de2d3d3129eea35553875,5,,"Chegou como esperado, nada a reclamar. Produto de qualidade e bem acondicionado.",2016-10-20 00:00:00,2016-10-21 01:50:25
-a6123a3915b677fd524c6e334d334d26,1b2d622f7ebb8e65f7de3e389f052540,5,,"demora um pouco pra chegar , mas o produto é excelente",2016-10-28 00:00:00,2016-11-02 17:44:12
-04b84feb08271e8c40cfd6fe82e2cdb8,8b160e3e272dcca4665850aae31ae6fd,5,,"Excelente material, recomendo. Chegou bem antes do prazo . ",2016-10-27 00:00:00,2016-10-27 20:35:59
-35166e4e735bdbc0d586522eaadbf563,cb29497c3782a76b57327c055d58b0e0,1,,,2016-10-30 00:00:00,2016-11-01 20:14:18
+Parabéns Equipe baratheon.",10/27/2016 0:00,10/30/2016 0:27
+d674c265c1b5c2cc34594ae6fbfee3a7,a8846701b9f3e21e64c9062ed3f4dfd7,5,,Foi ótimo chegou antes do prazo,10/25/2016 0:00,10/27/2016 13:26
+eb0a5e66d996050334014587b1c8699c,04bc36cd51141e11c2cbbd188b6e47ca,5,,,10/21/2016 0:00,10/22/2016 0:14
+d429df0b5f44f13b731c74ef28e7e6c8,b04bd4e0a1a21fef81b1f24f6fb81c08,5,,parabens pela atençao e eficiencia ,10/25/2016 0:00,10/28/2016 17:42
+9d4df583085fec1900dfac4efd0b085a,2e32dea8a4d1ae5499a67674b387bc6a,1,,comprei duas cortinas a malha pessimalamentavel uma esta em fase de devoluçao mas nao recomendo esse vendedormas gostaria de fazer a devoluçao das duas sem mais.aparecida,10/28/2016 0:00,10/31/2016 5:02
+5d369f0070f24cb17ec69c8ae95b85c3,b88cd65e1d90bf6e185bf9b6f0b614cd,1,,Minha película de vidro veio quebrada e não veio junto com o celular. Tive que esperar muito tempo e não deu pra usar.,10/25/2016 0:00,10/29/2016 15:24
+f96addf36d6a28a79c165d92ea17f361,e2ea01f68f92f0c55b08ca739af834b6,5,,,10/28/2016 0:00,11/7/2016 15:58
+8e8cc3353ea9bd13e1450d8fa269d474,ed3d575bd3358123b063ee64cdecdef5,5,,Chego dentro do prazo tudo bem embalado,10/18/2016 0:00,10/18/2016 20:29
+74515ea15719d4a06f557320b824c8b0,98750f114ae6088d04ea0d3cfe3f137f,5,,,10/29/2016 0:00,10/31/2016 20:16
+da0cd4b04372ffaaed0bdb2852e8da0f,8e7ef380ad5ae407dffbe2f0826cae73,5,,Produto entregue antes do prazo,10/21/2016 0:00,10/24/2016 11:38
+b2fc2fac36fdef519925b2f55a95d8e4,85841af0d94e5d0cd3a9c0e42e565b74,5,,,10/18/2016 0:00,12/6/2016 20:48
+abd41883b42247d56967cfebfa2c831a,a241bea87dcdd0160ca94ebdba5bdbb9,5,,recomendo a todos os usuarios do site pois tudo foi conforme o combinado.,10/19/2016 0:00,10/20/2016 0:34
+0aa8b628ffe8130e26b668f9f3a2f6ef,f7310018040436b01ab03f81b301b5de,1,,Realizei minha compra no dia 10/10 porém só chegou 1 produto sendo que paguei por 3 unidades MOP Spray. Estou muito insatisfeita inclusive com o atendimento.,10/25/2016 0:00,10/31/2016 16:21
+dbf347b3a608b8550ee645b0f4e4dda9,f001655c8c646cd1b5185bbc2e7534f3,5,,super recomendo sempre uso esse perfume e gosto bastante.,10/27/2016 0:00,10/28/2016 1:19
+7d58a5b4bc501c1ece8972fa04351be2,36989eb07a0de2d3d3129eea35553875,5,,Chegou como esperado nada a reclamar. Produto de qualidade e bem acondicionado.,10/20/2016 0:00,10/21/2016 1:50
+a6123a3915b677fd524c6e334d334d26,1b2d622f7ebb8e65f7de3e389f052540,5,,demora um pouco pra chegar  mas o produto é excelente,10/28/2016 0:00,11/2/2016 17:44
+04b84feb08271e8c40cfd6fe82e2cdb8,8b160e3e272dcca4665850aae31ae6fd,5,,Excelente material recomendo. Chegou bem antes do prazo . ,10/27/2016 0:00,10/27/2016 20:35
+35166e4e735bdbc0d586522eaadbf563,cb29497c3782a76b57327c055d58b0e0,1,,,10/30/2016 0:00,11/1/2016 20:14
 68527c158a36d2fd93c284664ccc6dcc,8c72f52f7655510c1ec81f3b9019c638,1,,"Pedi voltagem 110v 
 enviaram 220v
-não recomendo",2016-10-21 00:00:00,2016-10-30 18:43:13
-24c08f393f2d716d30adbd58e9a6939c,59e7ca596664da0a459a145eb95cc9c5,1,,"Não recebi o meu produto e nem fui avisada da falta do item na loja.Quando entrei em contato,quase 1 mês depois,é que fiquei sabendo que o produto não seria entregue pois não havia mais em estoque. ",2016-10-27 00:00:00,2016-10-28 21:09:40
-eb37b493f1df329bd53aca24032f9b77,5c5c9fde60ffb741545cf2608e8c12ca,4,,"Sei que esse não e o canal ideal, estou ha dias tentando realizar esse cancelamento e não estou conseguindo.
-Recebi o produto, porém minha filha ganhou o mesmo produto do pai. Preciso cancelar.",2016-10-19 00:00:00,2016-10-19 15:35:52
-bd5db39f8c74d5d01fe36048af498ed2,67adba02e0955286954975ea56f9d17f,4,,Produto entregue em ótimo estado e rápido ,2016-10-27 00:00:00,2016-10-27 20:15:18
-2328414a50c82c2a786047421e6287d0,b157079a62d77688a0f66043aa1f0306,5,,"Excelente produto, chegou antes do prazo",2016-10-20 00:00:00,2016-10-21 18:07:23
-c429ba5b6d46f7f5e4b9b080ddb72939,4723d255a158f5b6c5a872264e3529c5,5,,,2016-10-22 00:00:00,2016-10-25 10:31:48
-f834b477f8ef44384df782b2318005ea,2f9d4ee8ca77fe0951ebfe9064cad953,5,,"Chegou tudo nos conformes,dentro do prazo e de excelente qualidade as pulseiras,recomendo.",2016-10-30 00:00:00,2016-11-01 16:48:31
+não recomendo",10/21/2016 0:00,10/30/2016 18:43
+24c08f393f2d716d30adbd58e9a6939c,59e7ca596664da0a459a145eb95cc9c5,1,,Não recebi o meu produto e nem fui avisada da falta do item na loja.Quando entrei em contatoquase 1 mês depoisé que fiquei sabendo que o produto não seria entregue pois não havia mais em estoque. ,10/27/2016 0:00,10/28/2016 21:09
+eb37b493f1df329bd53aca24032f9b77,5c5c9fde60ffb741545cf2608e8c12ca,4,,"Sei que esse não e o canal ideal estou ha dias tentando realizar esse cancelamento e não estou conseguindo.
+Recebi o produto porém minha filha ganhou o mesmo produto do pai. Preciso cancelar.",10/19/2016 0:00,10/19/2016 15:35
+bd5db39f8c74d5d01fe36048af498ed2,67adba02e0955286954975ea56f9d17f,4,,Produto entregue em ótimo estado e rápido ,10/27/2016 0:00,10/27/2016 20:15
+2328414a50c82c2a786047421e6287d0,b157079a62d77688a0f66043aa1f0306,5,,Excelente produto chegou antes do prazo,10/20/2016 0:00,10/21/2016 18:07
+c429ba5b6d46f7f5e4b9b080ddb72939,4723d255a158f5b6c5a872264e3529c5,5,,,10/22/2016 0:00,10/25/2016 10:31
+f834b477f8ef44384df782b2318005ea,2f9d4ee8ca77fe0951ebfe9064cad953,5,,Chegou tudo nos conformesdentro do prazo e de excelente qualidade as pulseirasrecomendo.,10/30/2016 0:00,11/1/2016 16:48
 6853217151251a79c09aa41d8e551ba8,bd726a1bcd046edd7019cee8a66245f7,5,,"O produto foi entregue rápido do jeito que eu escolhi muito bom o site
-",2016-10-21 00:00:00,2016-10-23 23:35:51
+",10/21/2016 0:00,10/23/2016 23:35
 f24e1946d658c13928818f1a73b6d899,b19169c7cb8391fb8561e094d61c531a,5,,"Excelente produto.
-Obrigada",2016-10-27 00:00:00,2016-10-28 12:21:53
-efef5a00aac989951350619e06681dcb,ac2b7c522d811acba0aa270ed3e112e4,1,,"Loja lixo, entregaram produto errado, mandei email pro stark reclamando, nem obtive resposta, bela consideraçao por um cliente de tantos anos, qro ver o valor na minha fatura, ja q sao diferentes!",2016-10-22 00:00:00,2016-10-24 23:33:19
-06f88914dfe13c2ac14ad3479a880fca,4d66b3a9d12facad48a3b23cc9fe7898,5,,O produto chegou em perfeito estado e antes do prazo. Não tive nenhuma dor de cabeça! ,2016-10-18 00:00:00,2016-10-19 01:13:48
-d6de9b9a11c919860b73e5b421d1ec46,6b5e619dedba6d4297fb10dd5886912f,4,,Recebi o produto na data programada. É fácil de montar e muito prático para pendurar roupas e sapatos. Só que aguenta uma quantidade pequena de roupas. ,2016-10-26 00:00:00,2016-10-28 21:42:42
-3590167a693b2f2312743bc9a03a8d28,0a5d7e24850c68bf00d39bd62a9a45ee,5,,Tudo certo. Recomendo.,2016-10-28 00:00:00,2016-10-30 20:24:24
-ba21b2a549144cd4f572c3da69785e25,517e0a52c193102990befc46a5c5245a,3,,"Chegou até antes do dia , gostei do produto e recomendo,espero que dure na mão da minha filha kkk",2016-10-19 00:00:00,2016-10-22 09:57:02
-0ab319a49d9e72c13772ae6c70918872,640aef9709beda161ca0b5af58ac437c,3,,Recebi o produto dentro do prazo,2016-10-28 00:00:00,2016-10-29 11:59:08
-ab125211266c7cb8542597fc230766a3,1069874467b6a425853288c450f68fc9,2,,"Entrega foi rápida , porém o produto de péssima qualidade, fino , não passou nem perto do que eu esperava , está certo que foi barato mas eu não pagaria nem 10,00.",2016-10-29 00:00:00,2016-10-29 19:56:37
-b31b20d1366006aa90bcc8086f6bd7b9,82e4f033f60598903866557d89c9c042,4,,,2016-10-29 00:00:00,2016-11-01 14:24:38
-a5bb3aa21e746eb38caa0fb1f251f5d9,f9c44da06151c190a9a6c9c712873d10,5,,Ótimo produto ,2016-10-19 00:00:00,2016-10-20 04:27:48
-1edb1e0331873cc2085a59daa354a510,79ffdd52a918bbe867895a4b183d6457,1,,"Demorou quase um mes pra chegar.. E quando finalmente chegou, ele nao liga... ",2016-10-27 00:00:00,2016-11-10 13:15:14
-8d58ce9a3daaddef44f4380348fc2f39,7254ba1421bac35de5d5da660715bf0e,5,,Nota 10 ,2016-10-29 00:00:00,2016-10-31 01:41:29
-53752edb26544dd41c1209f582c9c589,b8b9d7046c083150cb5360b83a8ebb51,5,,O pedido foi entregue antes do prazo pr0metido,2016-10-16 01:00:00,2016-10-16 15:45:11
-e33f11accd34b7184958cd9356340846,389815397a4bcdf3dcf64b90c25b3140,5,,,2016-10-23 00:00:00,2016-10-23 22:40:00
-f1e5cd1574a6be811fc8e285ab492741,0d9664d8da1dc4337269071b39e19423,5,,Produto chegou antes do prazo determinado pelo site.,2016-10-28 00:00:00,2016-10-31 11:01:33
-604097d05c7b80206fc808f6781ebfc4,f883e09a1fb01318052c6ab839efb34a,1,,"Produto não foi fabricado com toda atenção que deveria ter,parte do couro esta menor que a placa causando perda de qualidade do produto.Deve ter mais atenção do fabricante para não ocorer mais erros.",2016-10-29 00:00:00,2016-10-30 01:35:29
+Obrigada",10/27/2016 0:00,10/28/2016 12:21
+efef5a00aac989951350619e06681dcb,ac2b7c522d811acba0aa270ed3e112e4,1,,Loja lixo entregaram produto errado mandei email pro stark reclamando nem obtive resposta bela consideraçao por um cliente de tantos anos qro ver o valor na minha fatura ja q sao diferentes!,10/22/2016 0:00,10/24/2016 23:33
+06f88914dfe13c2ac14ad3479a880fca,4d66b3a9d12facad48a3b23cc9fe7898,5,,O produto chegou em perfeito estado e antes do prazo. Não tive nenhuma dor de cabeça! ,10/18/2016 0:00,10/19/2016 1:13
+d6de9b9a11c919860b73e5b421d1ec46,6b5e619dedba6d4297fb10dd5886912f,4,,Recebi o produto na data programada. É fácil de montar e muito prático para pendurar roupas e sapatos. Só que aguenta uma quantidade pequena de roupas. ,10/26/2016 0:00,10/28/2016 21:42
+3590167a693b2f2312743bc9a03a8d28,0a5d7e24850c68bf00d39bd62a9a45ee,5,,Tudo certo. Recomendo.,10/28/2016 0:00,10/30/2016 20:24
+ba21b2a549144cd4f572c3da69785e25,517e0a52c193102990befc46a5c5245a,3,,Chegou até antes do dia  gostei do produto e recomendoespero que dure na mão da minha filha kkk,10/19/2016 0:00,10/22/2016 9:57
+0ab319a49d9e72c13772ae6c70918872,640aef9709beda161ca0b5af58ac437c,3,,Recebi o produto dentro do prazo,10/28/2016 0:00,10/29/2016 11:59
+ab125211266c7cb8542597fc230766a3,1069874467b6a425853288c450f68fc9,2,,Entrega foi rápida  porém o produto de péssima qualidade fino  não passou nem perto do que eu esperava  está certo que foi barato mas eu não pagaria nem 1000.,10/29/2016 0:00,10/29/2016 19:56
+b31b20d1366006aa90bcc8086f6bd7b9,82e4f033f60598903866557d89c9c042,4,,,10/29/2016 0:00,11/1/2016 14:24
+a5bb3aa21e746eb38caa0fb1f251f5d9,f9c44da06151c190a9a6c9c712873d10,5,,Ótimo produto ,10/19/2016 0:00,10/20/2016 4:27
+1edb1e0331873cc2085a59daa354a510,79ffdd52a918bbe867895a4b183d6457,1,,Demorou quase um mes pra chegar.. E quando finalmente chegou ele nao liga... ,10/27/2016 0:00,11/10/2016 13:15
+8d58ce9a3daaddef44f4380348fc2f39,7254ba1421bac35de5d5da660715bf0e,5,,Nota 10 ,10/29/2016 0:00,10/31/2016 1:41
+53752edb26544dd41c1209f582c9c589,b8b9d7046c083150cb5360b83a8ebb51,5,,O pedido foi entregue antes do prazo pr0metido,10/16/2016 1:00,10/16/2016 15:45
+e33f11accd34b7184958cd9356340846,389815397a4bcdf3dcf64b90c25b3140,5,,,10/23/2016 0:00,10/23/2016 22:40
+f1e5cd1574a6be811fc8e285ab492741,0d9664d8da1dc4337269071b39e19423,5,,Produto chegou antes do prazo determinado pelo site.,10/28/2016 0:00,10/31/2016 11:01
+604097d05c7b80206fc808f6781ebfc4,f883e09a1fb01318052c6ab839efb34a,1,,Produto não foi fabricado com toda atenção que deveria terparte do couro esta menor que a placa causando perda de qualidade do produto.Deve ter mais atenção do fabricante para não ocorer mais erros.,10/29/2016 0:00,10/30/2016 1:35
 09f5dc93a5bff4ba95b2dbc09e3f9a27,ad1aeeb1a99c9f021e38a49865bb812c,5,,"Recebemos os produtos e já estão em operação.
-Obrigado!!!",2016-10-27 00:00:00,2016-10-29 21:00:28
-8cc8ab89092a5907d2ce5250c63d3437,ca3b8093576a51bea61c9782c7771f62,3,,"Demorou para chegar mas, veio em ordem. Recomendo o vendedor mas , não tem pressa em receber.",2016-10-27 00:00:00,2016-10-31 19:24:28
-040001387dba8164e025b9e919adc29b,91c96626f9e13b1b71a1f3e7ed52dd7a,5,,"Muito bom vendedor, produto chegou antes do prazo,excelente",2016-10-27 00:00:00,2016-10-31 00:54:26
-a93139d9d1314158c080e3db7e79618b,e5fa5a7210941f7d56d0208e4e071d35,1,,"Comprei dois produtos desta loja parceira da lannister e nenhum foi entregue, ja faz Mais de dois meses e NEM Dao retorno ...",2016-10-29 00:00:00,2016-10-30 01:47:48
-f9f4399e58130cccaf3e366eecbce532,75fb23d26903b71ce3dd550ae22d2cc1,4,,,2016-10-25 00:00:00,2016-10-26 17:54:45
+Obrigado!!!",10/27/2016 0:00,10/29/2016 21:00
+8cc8ab89092a5907d2ce5250c63d3437,ca3b8093576a51bea61c9782c7771f62,3,,Demorou para chegar mas veio em ordem. Recomendo o vendedor mas  não tem pressa em receber.,10/27/2016 0:00,10/31/2016 19:24
+040001387dba8164e025b9e919adc29b,91c96626f9e13b1b71a1f3e7ed52dd7a,5,,Muito bom vendedor produto chegou antes do prazoexcelente,10/27/2016 0:00,10/31/2016 0:54
+a93139d9d1314158c080e3db7e79618b,e5fa5a7210941f7d56d0208e4e071d35,1,,Comprei dois produtos desta loja parceira da lannister e nenhum foi entregue ja faz Mais de dois meses e NEM Dao retorno ...,10/29/2016 0:00,10/30/2016 1:47
+f9f4399e58130cccaf3e366eecbce532,75fb23d26903b71ce3dd550ae22d2cc1,4,,,10/25/2016 0:00,10/26/2016 17:54
 b13013b811c2325934e8e049683bdcf2,51725d3e4bdfc97e28b40543310da8a3,1,,"Paguei mais caro e esperei mais tempo pra receber escovas Dourada e Branca...
 
-No fim das contas recebi 2 escovas ROSA.",2016-10-27 00:00:00,2016-10-31 09:55:13
-212e6ab2b4801ca707b950aa0207ff8a,cd3b8574c82b42fc8129f6d502690c3e,5,,,2016-10-19 00:00:00,2016-10-22 00:23:57
-21b6466c2fc39dee8e793652af06f9e9,985db56d4cabd2577d0960194dd2cd5a,5,,,2016-10-29 00:00:00,2016-10-29 23:50:50
-132d7c47599263f5a0a604763bc6454b,12ca240539e7029e0328f0a410c12ad1,4,,,2016-10-25 00:00:00,2016-11-12 20:01:41
-2fbf193d1cc24a781b5775a10ceb6ccb,df30f88407baa98218b16abe7032899a,5,,,2016-10-21 00:00:00,2016-10-22 04:09:29
-6916ca4502d6d3bfd39818759d55d536,bfbd0f9bdef84302105ad712db648a6c,1,,nao recebi o produto e nem resposta da empresa,2016-10-06 00:00:00,2016-10-07 18:32:28
-b8ee78b3ced2f119b89b611a0efdba7b,f688669f48063536e082bb32d634cd46,1,,"Meu pedido consta como entregue, mas na verdade não foi. E a loja não respondeu meu questionamento sobre a não entrega.",2016-10-22 00:00:00,2016-10-26 11:21:05
-34d62feeefaf60ef6ff7204af19fe109,71303d7e93b399f5bcd537d124c0bcfa,1,,,2016-10-27 00:00:00,2016-10-27 23:40:51
-8ee14babdad4ad45c1188f8a93b58b14,f205336be829af209878b6339cf02c7e,5,,Chegou rápido e o produto é de boa qualidade. Recomendo.,2016-10-28 00:00:00,2016-10-29 00:09:15
-4446f5d2181c7107b2386b9bce43be6a,f716dffba1232aaef7c899fb8c14db97,5,,,2016-10-19 00:00:00,2016-11-08 20:45:09
-b2d5d8db2a841d27a72e4c06c6212368,9aa3197e4887919fde0307fc23601d7a,4,,Só chegou uma parte do pedido ate agora..,2016-10-15 00:00:00,2016-10-17 21:02:49
+No fim das contas recebi 2 escovas ROSA.",10/27/2016 0:00,10/31/2016 9:55
+212e6ab2b4801ca707b950aa0207ff8a,cd3b8574c82b42fc8129f6d502690c3e,5,,,10/19/2016 0:00,10/22/2016 0:23
+21b6466c2fc39dee8e793652af06f9e9,985db56d4cabd2577d0960194dd2cd5a,5,,,10/29/2016 0:00,10/29/2016 23:50
+132d7c47599263f5a0a604763bc6454b,12ca240539e7029e0328f0a410c12ad1,4,,,10/25/2016 0:00,11/12/2016 20:01
+2fbf193d1cc24a781b5775a10ceb6ccb,df30f88407baa98218b16abe7032899a,5,,,10/21/2016 0:00,10/22/2016 4:09
+6916ca4502d6d3bfd39818759d55d536,bfbd0f9bdef84302105ad712db648a6c,1,,nao recebi o produto e nem resposta da empresa,10/6/2016 0:00,10/7/2016 18:32
+b8ee78b3ced2f119b89b611a0efdba7b,f688669f48063536e082bb32d634cd46,1,,Meu pedido consta como entregue mas na verdade não foi. E a loja não respondeu meu questionamento sobre a não entrega.,10/22/2016 0:00,10/26/2016 11:21
+34d62feeefaf60ef6ff7204af19fe109,71303d7e93b399f5bcd537d124c0bcfa,1,,,10/27/2016 0:00,10/27/2016 23:40
+8ee14babdad4ad45c1188f8a93b58b14,f205336be829af209878b6339cf02c7e,5,,Chegou rápido e o produto é de boa qualidade. Recomendo.,10/28/2016 0:00,10/29/2016 0:09
+4446f5d2181c7107b2386b9bce43be6a,f716dffba1232aaef7c899fb8c14db97,5,,,10/19/2016 0:00,11/8/2016 20:45
+b2d5d8db2a841d27a72e4c06c6212368,9aa3197e4887919fde0307fc23601d7a,4,,Só chegou uma parte do pedido ate agora..,10/15/2016 0:00,10/17/2016 21:02
 f24e1946d658c13928818f1a73b6d899,c4f710df20f7d1500da1aef81a993f65,5,,"Excelente produto.
-Obrigada",2016-10-27 00:00:00,2016-10-28 12:21:53
-6ae2f4403d64910933b2fae18430a35f,d6e32818428593eefe8ffd7e15acb83e,4,,"A loja fez a sua parte qto ao prazo de entrega e entrega do produto, so acho q deveria avaliar a eficácia do produto antes de por a venda ...NÃO RECOMENDO O PRODUTO, não realiza o q é proposto.",2016-10-26 00:00:00,2016-10-27 18:44:02
-fae76806cdb052d20c72da714ae8d89c,b44d71edad65f41824d2e177470ef8f6,4,,"Muito satisfeito com a compra que fiz neste site, tudo ocorreu como combinado. Recomendo.",2016-10-26 00:00:00,2016-10-26 20:43:03
-52ffad0c3ef77a4f368dbe61152d84d9,35d8c6d5e060ad24271ffda186312ef8,5,,,2016-10-26 00:00:00,2017-01-26 23:20:30
-693f18ad0dec798d100e7c56df7e991d,d2266b035a47467c40d174c6f55cf4dd,3,,,2016-10-25 00:00:00,2016-11-12 21:48:48
-b39093a4bf4d82622b75d966864f1d04,3e9334d33c1e64167920675211fb1aee,3,,"Boa, porém Spotify não funciona, mostra opção de facebook e não entra. É um pouco lenta também!! ",2016-10-28 00:00:00,2016-10-30 20:57:26
-3fedda7e6030edecbeeeebdaa5ff3ccc,dc91dbf7defabdf37c52672a989bad1b,4,,"a cama iglu é otima, minha cachorra adorou, ela é macia e confortavel",2016-10-27 00:00:00,2016-10-28 10:22:29
-e3ed0be982ca28717f4d395f0f21ba46,b582532527260a8be949eac9f4d0ccff,5,,"Fiz uma compra tranquila, recebi emails sobre o andamento do produto, não houve nenhum atraso e meu produto chegou novinho embalado e bem antes do prazo.",2016-10-24 00:00:00,2016-10-24 15:24:44
-19704c3e508bdc4933c5fd3f4d6604fc,8fe36dfd03ccfe3ed3d492c146705b9d,5,,,2016-10-19 00:00:00,2016-10-19 23:59:49
-d05a436bdc88d550f356f43b1a6ada8a,acf83f0e8fb878cb25197344426ed10b,4,,Uma entrega antes do prazo e bem sucedida. ,2016-10-26 00:00:00,2016-10-27 11:01:03
-2961357aed5485e126a05fc91fa8e9f3,90bd4466c2905d7b5b56370149e62bcc,4,,Recomendo este vendedor.,2016-10-22 00:00:00,2016-10-22 21:10:00
-91f30fe56a84d369d913e7bf6d1d85a5,e9555dc20eba7e4e62210df1f438ea00,1,,"Eu realizei a compra de 4 unidades e só chegaram 2 unidades na minha residência, porém, no meu cartão foi cobrado o valor referente as 4 unidades, ninguém resolve o problema. NÃO RECOMENDO!
-",2016-10-27 00:00:00,2016-11-05 23:44:06
-8e4207488174b7e97ca5d69a2a429b8f,99d3df1714b20b9eb9734e731927379a,5,,"O pedido (como sempre acontece quando compro no stark) chegou antes do prazo final, produto bem embalado.
-Gostei muito ",2016-10-20 00:00:00,2016-10-20 17:23:54
-e02bff6f1a322faaf040a54b31c63358,d2945e686c883978378a10e49be7fb24,5,,,2016-10-19 00:00:00,2016-10-22 00:25:28
-325ae2c7d796de8bfa68e2c14aa4c15c,3d7e8f32f5b59e005ccfc1076b4040b5,5,,"Ótima compra, o produto chegou no prazo e em bom estado.",2016-10-25 00:00:00,2016-10-26 01:30:00
-81a2e2003437307732495db92cd38332,27c7c6aa7b6f3de99d2a3a64674d296f,5,,,2016-10-19 00:00:00,2016-10-21 01:08:26
-5d76a01a07627d6eab445af668ac3aef,67418605ab8f9414a2e238bbcdde1312,5,,"Muito TOP o produto. Lampadas de ótima qualidade, que iluminam muito bem e consomem quase nada.",2016-10-18 00:00:00,2016-12-26 15:24:14
-9fe0f66724df77fd63fcc0c94a323978,3b697a20d9e427646d92567910af6d57,4,,Facilidade em manusear o aparelho.,2016-10-26 00:00:00,2016-10-30 21:32:15
-85c08c1da6ade649c3e5547cadb2fa83,0c7fc95baa5e16992ed412ccea7f28b3,4,,"Recomendo. leve, versátil.",2016-10-26 00:00:00,2017-05-11 16:42:59
-7a2aee933c922e020937f52b77379331,a9fc3ae13c740ad46532fd50b61c69d5,5,,,2016-10-19 00:00:00,2016-10-19 20:38:50
-335d5ecdd8c7cfc9f1aa14670861fabe,b1d88d1e4179448cac98b8d433e23316,5,,,2016-10-28 00:00:00,2016-10-31 11:32:57
+Obrigada",10/27/2016 0:00,10/28/2016 12:21
+6ae2f4403d64910933b2fae18430a35f,d6e32818428593eefe8ffd7e15acb83e,4,,A loja fez a sua parte qto ao prazo de entrega e entrega do produto so acho q deveria avaliar a eficácia do produto antes de por a venda ...NÃO RECOMENDO O PRODUTO não realiza o q é proposto.,10/26/2016 0:00,10/27/2016 18:44
+fae76806cdb052d20c72da714ae8d89c,b44d71edad65f41824d2e177470ef8f6,4,,Muito satisfeito com a compra que fiz neste site tudo ocorreu como combinado. Recomendo.,10/26/2016 0:00,10/26/2016 20:43
+52ffad0c3ef77a4f368dbe61152d84d9,35d8c6d5e060ad24271ffda186312ef8,5,,,10/26/2016 0:00,1/26/2017 23:20
+693f18ad0dec798d100e7c56df7e991d,d2266b035a47467c40d174c6f55cf4dd,3,,,10/25/2016 0:00,11/12/2016 21:48
+b39093a4bf4d82622b75d966864f1d04,3e9334d33c1e64167920675211fb1aee,3,,Boa porém Spotify não funciona mostra opção de facebook e não entra. É um pouco lenta também!! ,10/28/2016 0:00,10/30/2016 20:57
+3fedda7e6030edecbeeeebdaa5ff3ccc,dc91dbf7defabdf37c52672a989bad1b,4,,a cama iglu é otima minha cachorra adorou ela é macia e confortavel,10/27/2016 0:00,10/28/2016 10:22
+e3ed0be982ca28717f4d395f0f21ba46,b582532527260a8be949eac9f4d0ccff,5,,Fiz uma compra tranquila recebi emails sobre o andamento do produto não houve nenhum atraso e meu produto chegou novinho embalado e bem antes do prazo.,10/24/2016 0:00,10/24/2016 15:24
+19704c3e508bdc4933c5fd3f4d6604fc,8fe36dfd03ccfe3ed3d492c146705b9d,5,,,10/19/2016 0:00,10/19/2016 23:59
+d05a436bdc88d550f356f43b1a6ada8a,acf83f0e8fb878cb25197344426ed10b,4,,Uma entrega antes do prazo e bem sucedida. ,10/26/2016 0:00,10/27/2016 11:01
+2961357aed5485e126a05fc91fa8e9f3,90bd4466c2905d7b5b56370149e62bcc,4,,Recomendo este vendedor.,10/22/2016 0:00,10/22/2016 21:10
+91f30fe56a84d369d913e7bf6d1d85a5,e9555dc20eba7e4e62210df1f438ea00,1,,"Eu realizei a compra de 4 unidades e só chegaram 2 unidades na minha residência porém no meu cartão foi cobrado o valor referente as 4 unidades ninguém resolve o problema. NÃO RECOMENDO!
+",10/27/2016 0:00,11/5/2016 23:44
+8e4207488174b7e97ca5d69a2a429b8f,99d3df1714b20b9eb9734e731927379a,5,,"O pedido (como sempre acontece quando compro no stark) chegou antes do prazo final produto bem embalado.
+Gostei muito ",10/20/2016 0:00,10/20/2016 17:23
+e02bff6f1a322faaf040a54b31c63358,d2945e686c883978378a10e49be7fb24,5,,,10/19/2016 0:00,10/22/2016 0:25
+325ae2c7d796de8bfa68e2c14aa4c15c,3d7e8f32f5b59e005ccfc1076b4040b5,5,,Ótima compra o produto chegou no prazo e em bom estado.,10/25/2016 0:00,10/26/2016 1:30
+81a2e2003437307732495db92cd38332,27c7c6aa7b6f3de99d2a3a64674d296f,5,,,10/19/2016 0:00,10/21/2016 1:08
+5d76a01a07627d6eab445af668ac3aef,67418605ab8f9414a2e238bbcdde1312,5,,Muito TOP o produto. Lampadas de ótima qualidade que iluminam muito bem e consomem quase nada.,10/18/2016 0:00,12/26/2016 15:24
+9fe0f66724df77fd63fcc0c94a323978,3b697a20d9e427646d92567910af6d57,4,,Facilidade em manusear o aparelho.,10/26/2016 0:00,10/30/2016 21:32
+85c08c1da6ade649c3e5547cadb2fa83,0c7fc95baa5e16992ed412ccea7f28b3,4,,Recomendo. leve versátil.,10/26/2016 0:00,5/11/2017 16:42
+7a2aee933c922e020937f52b77379331,a9fc3ae13c740ad46532fd50b61c69d5,5,,,10/19/2016 0:00,10/19/2016 20:38
+335d5ecdd8c7cfc9f1aa14670861fabe,b1d88d1e4179448cac98b8d433e23316,5,,,10/28/2016 0:00,10/31/2016 11:32
 4f7aec562b99678b6acb3749805bf3e8,deb08269080b64b8e69bcd06b808889a,5,,"Perfeita a entrega.
-Comprarei mais vezes.",2016-10-19 00:00:00,2016-10-19 19:35:47
-211a898069d011f6808df2b210d9940c,1ff217aa612f6cd7c4255c9bfe931c8b,5,,,2016-10-26 00:00:00,2016-11-21 11:01:44
-b977b767d10b380552343a815b19a490,3379d980824f0aa5dab057f2530759bb,5,,Excelente,2016-10-25 00:00:00,2016-10-26 00:31:56
+Comprarei mais vezes.",10/19/2016 0:00,10/19/2016 19:35
+211a898069d011f6808df2b210d9940c,1ff217aa612f6cd7c4255c9bfe931c8b,5,,,10/26/2016 0:00,11/21/2016 11:01
+b977b767d10b380552343a815b19a490,3379d980824f0aa5dab057f2530759bb,5,,Excelente,10/25/2016 0:00,10/26/2016 0:31
 08b5796a634d55da0d1a76ed9a400ec2,5f834cc4ee109c58dff88c60b8ba5ecf,5,,"Entrega em tempo hábil.
-Recomendo.",2016-10-27 00:00:00,2016-10-27 19:30:05
-72d9ace542c8f5d68d5985db26e2c249,3d58fd1ee438a43f2a826dda6b013519,5,,Recomendo sempre para todos. Foi tudo ótimo.,2016-10-26 00:00:00,2016-10-27 19:15:09
-51dfec2468b97c6b91fc5e871bd88e9f,c78634fb21ecbb54b2b2498a660082ac,5,,,2016-10-27 00:00:00,2016-10-28 18:04:55
-6a760d6d7c876b76f77353f24d9c14fa,88130f20a472f28fcca9dd5d50358820,5,,"O produto chegou antes do prazo de entrega,em ótimo estado.Estou muito satisfeita com a compra ",2016-10-19 00:00:00,2016-11-04 09:08:50
-ee61f735caf6cd607feab01fba618cc0,376cc9a8f827d17966ea7c4b182f4426,5,,,2016-10-25 00:00:00,2016-10-26 14:45:40
-a0ba97ce98f76cf57bb2c5530513be70,7033745709b7cf1bac7d2533663592de,3,,dentro do anunciado.,2016-10-25 00:00:00,2016-10-26 23:52:15
-943bb65c3c5c4cd65b23c261ae7d8ad4,98beb6d036255a151fd6d5000ad66da8,5,,O produto chegou bem antes do prazo!!,2016-10-25 00:00:00,2016-10-26 16:15:59
-98de2ed46bf9a8835089f29126a41a13,bcbc0973414b1dd97555e6f8e9713cfa,5,,"Todo conforme o planejado, amei os produtos superou a minha expectativa!",2016-10-26 00:00:00,2016-10-27 15:58:28
-00e927398b7a872a23c8990b38b7026a,021d08e4057e5b6414c8d2f69f4f72a0,1,,Comprei o produto chave canivete para Logan. Mas o produto que me enviaram foi a chave comum. Não vou solicitar a troca por o produto vai me atender. Mas faltou a atenção no ato de enviar o produto.,2016-10-31 00:00:00,2016-11-02 12:04:41
-da520c13fbd4886bc0c1207df180106c,d3a84031db6c5de813d5a3a3489712ca,5,,,2016-10-18 00:00:00,2016-10-19 21:21:25
-743d98b1a4782f0646898fc915ef002a,e2144124f98f3bf46939bc5183104041,4,,,2016-10-15 00:00:00,2016-10-16 03:20:17
-2c275b34017a0d8684ea1cc9a020c8a5,6ad644c08b98d152d28f183097633d41,5,,Bom produto ,2016-10-21 00:00:00,2016-10-30 12:49:59
-80a44adebca41c95a1e55b3da6ac72a9,0891b66cbcc48cf64f31ae9cae3d08d8,4,,O produto chegou antes do prazo ! Muito satisfeito ,2016-10-28 00:00:00,2016-10-31 10:22:02
-506f32953da5ad22161ae4995b5873d1,24523db64c1af3f40f27cb4416fa5ea6,5,,Entrega rápida,2016-10-20 00:00:00,2016-10-21 21:46:11
-4efea8a9c1bc5e0598c5e9517773dd1c,50013835d7b14aefb452825864d3e414,5,,Chegou tudo direitinho e antes do prazo. ,2016-10-26 00:00:00,2016-10-27 02:11:55
-d6057688274ddb3b9f7d9fcf7ec9b286,e439ced3d48f1a77f6ecc029cc946a6f,3,,"produto artesanal, eu mesmo deveria ter feito. nao era o mesmo da foto no site",2016-10-26 00:00:00,2016-10-31 13:13:56
-7386b68489e00081752ae75cf5007c48,cf47ad2fb60cae3f74b943646f685c94,5,,"Totalmente responsáveis, produto entregue, informação dada ao cliente, preocupação com o cliente. Recomendo.",2016-10-25 00:00:00,2016-10-28 08:46:42
-2be38141c7e81db0001d2708980fe34e,7559c51df991c6861e6a8be5fb1e3751,3,,Muito bom... Empresa séria,2016-10-27 00:00:00,2016-10-27 21:26:22
-419ad0bca36f52cf9b91262de3394564,bc0e0c28cbe995798d3afb7c7c75d269,5,,"Excelente compra, vendedor excelente, entrega dentro do prazo. Estou muito satisfeito e recomendo.",2016-10-18 00:00:00,2016-10-24 13:43:09
-a71338154c9d26f71af841e078abcee1,dc5f6cd4492bbffe5bcda9b87856c9a5,4,,,2016-10-28 00:00:00,2017-01-08 15:09:32
-5cc07956bd0c9fe0671cf44b866837ba,7ac6f4778cd283c6b76c66fe1e0d4431,4,,"Produto chegou como combinado em perfeitas condiçoes, recomendo.",2016-10-19 00:00:00,2016-10-20 09:43:06
-4fb086c542bb7e4ec510a3463c1657b7,8c78d01de3a9009e23d6877a7cc9be20,3,,"Ainda faltam me entrega um produto ,quando chega eu avilo melhor .",2016-10-22 00:00:00,2016-10-22 20:04:45
-37e997267cf911f765204bbd5fa7aed3,e90f9a57c17a06b37c5830a2ab1bd209,5,,"Excelente, entrega dentro prazo. ",2016-10-20 00:00:00,2016-10-21 10:44:44
+Recomendo.",10/27/2016 0:00,10/27/2016 19:30
+72d9ace542c8f5d68d5985db26e2c249,3d58fd1ee438a43f2a826dda6b013519,5,,Recomendo sempre para todos. Foi tudo ótimo.,10/26/2016 0:00,10/27/2016 19:15
+51dfec2468b97c6b91fc5e871bd88e9f,c78634fb21ecbb54b2b2498a660082ac,5,,,10/27/2016 0:00,10/28/2016 18:04
+6a760d6d7c876b76f77353f24d9c14fa,88130f20a472f28fcca9dd5d50358820,5,,O produto chegou antes do prazo de entregaem ótimo estado.Estou muito satisfeita com a compra ,10/19/2016 0:00,11/4/2016 9:08
+ee61f735caf6cd607feab01fba618cc0,376cc9a8f827d17966ea7c4b182f4426,5,,,10/25/2016 0:00,10/26/2016 14:45
+a0ba97ce98f76cf57bb2c5530513be70,7033745709b7cf1bac7d2533663592de,3,,dentro do anunciado.,10/25/2016 0:00,10/26/2016 23:52
+943bb65c3c5c4cd65b23c261ae7d8ad4,98beb6d036255a151fd6d5000ad66da8,5,,O produto chegou bem antes do prazo!!,10/25/2016 0:00,10/26/2016 16:15
+98de2ed46bf9a8835089f29126a41a13,bcbc0973414b1dd97555e6f8e9713cfa,5,,Todo conforme o planejado amei os produtos superou a minha expectativa!,10/26/2016 0:00,10/27/2016 15:58
+00e927398b7a872a23c8990b38b7026a,021d08e4057e5b6414c8d2f69f4f72a0,1,,Comprei o produto chave canivete para Logan. Mas o produto que me enviaram foi a chave comum. Não vou solicitar a troca por o produto vai me atender. Mas faltou a atenção no ato de enviar o produto.,10/31/2016 0:00,11/2/2016 12:04
+da520c13fbd4886bc0c1207df180106c,d3a84031db6c5de813d5a3a3489712ca,5,,,10/18/2016 0:00,10/19/2016 21:21
+743d98b1a4782f0646898fc915ef002a,e2144124f98f3bf46939bc5183104041,4,,,10/15/2016 0:00,10/16/2016 3:20
+2c275b34017a0d8684ea1cc9a020c8a5,6ad644c08b98d152d28f183097633d41,5,,Bom produto ,10/21/2016 0:00,10/30/2016 12:49
+80a44adebca41c95a1e55b3da6ac72a9,0891b66cbcc48cf64f31ae9cae3d08d8,4,,O produto chegou antes do prazo ! Muito satisfeito ,10/28/2016 0:00,10/31/2016 10:22
+506f32953da5ad22161ae4995b5873d1,24523db64c1af3f40f27cb4416fa5ea6,5,,Entrega rápida,10/20/2016 0:00,10/21/2016 21:46
+4efea8a9c1bc5e0598c5e9517773dd1c,50013835d7b14aefb452825864d3e414,5,,Chegou tudo direitinho e antes do prazo. ,10/26/2016 0:00,10/27/2016 2:11
+d6057688274ddb3b9f7d9fcf7ec9b286,e439ced3d48f1a77f6ecc029cc946a6f,3,,produto artesanal eu mesmo deveria ter feito. nao era o mesmo da foto no site,10/26/2016 0:00,10/31/2016 13:13
+7386b68489e00081752ae75cf5007c48,cf47ad2fb60cae3f74b943646f685c94,5,,Totalmente responsáveis produto entregue informação dada ao cliente preocupação com o cliente. Recomendo.,10/25/2016 0:00,10/28/2016 8:46
+2be38141c7e81db0001d2708980fe34e,7559c51df991c6861e6a8be5fb1e3751,3,,Muito bom... Empresa séria,10/27/2016 0:00,10/27/2016 21:26
+419ad0bca36f52cf9b91262de3394564,bc0e0c28cbe995798d3afb7c7c75d269,5,,Excelente compra vendedor excelente entrega dentro do prazo. Estou muito satisfeito e recomendo.,10/18/2016 0:00,10/24/2016 13:43
+a71338154c9d26f71af841e078abcee1,dc5f6cd4492bbffe5bcda9b87856c9a5,4,,,10/28/2016 0:00,1/8/2017 15:09
+5cc07956bd0c9fe0671cf44b866837ba,7ac6f4778cd283c6b76c66fe1e0d4431,4,,Produto chegou como combinado em perfeitas condiçoes recomendo.,10/19/2016 0:00,10/20/2016 9:43
+4fb086c542bb7e4ec510a3463c1657b7,8c78d01de3a9009e23d6877a7cc9be20,3,,Ainda faltam me entrega um produto quando chega eu avilo melhor .,10/22/2016 0:00,10/22/2016 20:04
+37e997267cf911f765204bbd5fa7aed3,e90f9a57c17a06b37c5830a2ab1bd209,5,,Excelente entrega dentro prazo. ,10/20/2016 0:00,10/21/2016 10:44
 a9d8d154b0906d8948d7256e59a4ede1,835bf4777ad72891587719f1098e3528,4,,"muito bom
-",2016-10-25 00:00:00,2016-10-31 11:36:47
-bfe717904be6ed435223174b21d73178,96caf486ad384c707d860dbb4e519794,5,,,2016-10-21 00:00:00,2016-10-24 11:45:13
-d6de9b9a11c919860b73e5b421d1ec46,d868cf92a5a1305fc7277c60062e81ac,4,,Recebi o produto na data programada. É fácil de montar e muito prático para pendurar roupas e sapatos. Só que aguenta uma quantidade pequena de roupas. ,2016-10-26 00:00:00,2016-10-28 21:42:42
-8abb8dd1b12844a0af1a09b7b270a00b,1c4cafd25254eee31c8c9b8c141fb10a,5,,,2016-10-28 00:00:00,2016-10-31 16:06:12
-123ac38199a760bd830bac89986b5d0c,5b1376fe61863fe3508011db309e35fe,5,,,2016-10-18 00:00:00,2016-10-19 11:53:10
-1b5ff500ef25043744753d7916419c64,d263c89354a73314488491185858af42,5,,"Produto muito, só um contra versia que o aparelho é muito pequeno mas de resto ele é muito bom",2016-10-20 00:00:00,2016-10-20 21:33:16
-69ac6a27fde9855ebeaaecac0f78058b,809a282bbd5dbcabb6f2f724fca862ec,1,,MEU PEDIDO NÃO FOI ENTREGUE E NÃO FOI DADA NENHUMA SATISTAÇÃO,2016-10-02 00:00:00,2016-10-26 12:31:00
+",10/25/2016 0:00,10/31/2016 11:36
+bfe717904be6ed435223174b21d73178,96caf486ad384c707d860dbb4e519794,5,,,10/21/2016 0:00,10/24/2016 11:45
+d6de9b9a11c919860b73e5b421d1ec46,d868cf92a5a1305fc7277c60062e81ac,4,,Recebi o produto na data programada. É fácil de montar e muito prático para pendurar roupas e sapatos. Só que aguenta uma quantidade pequena de roupas. ,10/26/2016 0:00,10/28/2016 21:42
+8abb8dd1b12844a0af1a09b7b270a00b,1c4cafd25254eee31c8c9b8c141fb10a,5,,,10/28/2016 0:00,10/31/2016 16:06
+123ac38199a760bd830bac89986b5d0c,5b1376fe61863fe3508011db309e35fe,5,,,10/18/2016 0:00,10/19/2016 11:53
+1b5ff500ef25043744753d7916419c64,d263c89354a73314488491185858af42,5,,Produto muito só um contra versia que o aparelho é muito pequeno mas de resto ele é muito bom,10/20/2016 0:00,10/20/2016 21:33
+69ac6a27fde9855ebeaaecac0f78058b,809a282bbd5dbcabb6f2f724fca862ec,1,,MEU PEDIDO NÃO FOI ENTREGUE E NÃO FOI DADA NENHUMA SATISTAÇÃO,10/2/2016 0:00,10/26/2016 12:31
 87159a093663b2a1bb847dbb84879c41,b19169c7cb8391fb8561e094d61c531a,5,,"Excelente produto.
-Vendedor nota 1000",2016-10-29 00:00:00,2016-10-31 20:00:13
-85e45333f39f7676d0aa5caa21f8cf68,86df4a2f1f5cd47ee3f5bf1781240d1a,5,,,2016-10-27 00:00:00,2016-10-27 17:20:31
-e9278ca2b4139c45f741e9679b5ed837,a8c3f65a43b2e956cbfca10db4300853,5,,,2016-10-21 00:00:00,2016-10-22 00:04:48
-28112c56c882286e0b235173e84c5370,dabf2b0e35b423f94618bf965fcb7514,5,,Compraria novamente pq cumprem com o prazo de entrega e os produtos vem super embalados ,2016-10-19 00:00:00,2016-10-19 20:43:13
-6f97d8b5afaf78f8658cfc0634840b40,cbbb524a0e1646aa6cf7a3c0bbe517ad,1,,"produto entregue diferente do que foi comprado,não recomendo o vendedor.",2016-10-21 00:00:00,2016-10-22 10:10:28
-cef1ee03ded4d6272894a2eead6e1328,2e7a8482f6fb09756ca50c10d7bfc047,1,,1 mes de atraso na entrega !!! ultima compra q faço,2016-10-22 00:00:00,2016-11-15 16:00:34
+Vendedor nota 1000",10/29/2016 0:00,10/31/2016 20:00
+85e45333f39f7676d0aa5caa21f8cf68,86df4a2f1f5cd47ee3f5bf1781240d1a,5,,,10/27/2016 0:00,10/27/2016 17:20
+e9278ca2b4139c45f741e9679b5ed837,a8c3f65a43b2e956cbfca10db4300853,5,,,10/21/2016 0:00,10/22/2016 0:04
+28112c56c882286e0b235173e84c5370,dabf2b0e35b423f94618bf965fcb7514,5,,Compraria novamente pq cumprem com o prazo de entrega e os produtos vem super embalados ,10/19/2016 0:00,10/19/2016 20:43
+6f97d8b5afaf78f8658cfc0634840b40,cbbb524a0e1646aa6cf7a3c0bbe517ad,1,,produto entregue diferente do que foi compradonão recomendo o vendedor.,10/21/2016 0:00,10/22/2016 10:10
+cef1ee03ded4d6272894a2eead6e1328,2e7a8482f6fb09756ca50c10d7bfc047,1,,1 mes de atraso na entrega !!! ultima compra q faço,10/22/2016 0:00,11/15/2016 16:00
 87159a093663b2a1bb847dbb84879c41,c4f710df20f7d1500da1aef81a993f65,5,,"Excelente produto.
-Vendedor nota 1000",2016-10-29 00:00:00,2016-10-31 20:00:13
-a917ba27181f6c34aafeefdaaa0e1bd8,0e556f5eafbf3eb399290101b183b10e,2,,Veio uma corrente repetida ,2016-10-25 00:00:00,2016-11-01 22:36:40
-6824079f792ddaa9399c4fcb34c6c69a,119d2d80c921d5b4806a1b19b4e8c531,4,,,2016-10-20 00:00:00,2016-10-20 23:57:05
-61fcfc9aad23649e8a5b653d539a2d19,45ec58d30f2023e4dac16d956a657ddd,1,,deveria informar o tamanho e também apaga quando coloca ela no bafo portanto não recomendo o vendedor,2016-10-27 00:00:00,2016-11-03 12:02:36
-4f0f66126c962e92d1e99fe5d84a772a,fd4b04818375a4ba579a80c8d37f1b24,5,,,2016-10-19 00:00:00,2016-10-19 23:30:43
-fe431acef2f3b418c8ca197bc862104c,19feb5627c41ea1b36a8e50a469b3644,5,,,2016-10-22 00:00:00,2016-10-25 12:53:32
-47810286e081f2855bfb0cc41447e4ad,4eca6c2d172953276c75dd0e1bedce25,5,,"Foi entregue antes do previsto, gerando ainda mais a minha satisfação.
+Vendedor nota 1000",10/29/2016 0:00,10/31/2016 20:00
+a917ba27181f6c34aafeefdaaa0e1bd8,0e556f5eafbf3eb399290101b183b10e,2,,Veio uma corrente repetida ,10/25/2016 0:00,11/1/2016 22:36
+6824079f792ddaa9399c4fcb34c6c69a,119d2d80c921d5b4806a1b19b4e8c531,4,,,10/20/2016 0:00,10/20/2016 23:57
+61fcfc9aad23649e8a5b653d539a2d19,45ec58d30f2023e4dac16d956a657ddd,1,,deveria informar o tamanho e também apaga quando coloca ela no bafo portanto não recomendo o vendedor,10/27/2016 0:00,11/3/2016 12:02
+4f0f66126c962e92d1e99fe5d84a772a,fd4b04818375a4ba579a80c8d37f1b24,5,,,10/19/2016 0:00,10/19/2016 23:30
+fe431acef2f3b418c8ca197bc862104c,19feb5627c41ea1b36a8e50a469b3644,5,,,10/22/2016 0:00,10/25/2016 12:53
+47810286e081f2855bfb0cc41447e4ad,4eca6c2d172953276c75dd0e1bedce25,5,,"Foi entregue antes do previsto gerando ainda mais a minha satisfação.
 Não tive problema ou dano algum com a entrega.
 
-Recomendo! ",2016-10-20 00:00:00,2016-10-21 12:02:00
-e8162c435cc934213c57c53816811940,7d0eb8de17d494f4151e4470cd1b0605,4,,,2016-10-18 00:00:00,2016-12-07 02:59:50
-34bf3d03f9cbfadb1027ad3fa986931e,b3aa45b7ba0f950a1b163a9f85f613de,4,,,2016-10-20 00:00:00,2016-10-31 15:24:04
-22b25d1dc589a91876a6052e73043462,46046adea0e222a29259bad3d922fee8,5,,ok,2016-10-27 00:00:00,2016-10-28 18:01:55
-560630b759bebc99ef9b0a77d15a5067,b330d4bdde86ff11a726ee57dd2a7d75,4,,"Entrega rápida, bem embalado,produto muito bom,só achei que fosse um pouquinho maior, mas é lindo mesmo assim",2016-10-18 00:00:00,2016-10-19 00:49:06
-14ebbf02445a7002f16ac37eec124a6a,14b01335f19b97fce1437168032ae388,2,,"faltou a almofada cocozinho, na nota consta o produto, mas o produto NÃO foi entregue",2016-10-22 00:00:00,2016-10-22 09:25:13
-0d10871e728d2c7034d8396a6fc65ed3,f31853a4f30d4851c847e4494663e749,2,,,2016-10-25 00:00:00,2016-10-26 11:34:06
-c6b4a4cae9b07536c1c9cc6ec57b8371,7a36fa82d4bcff7d936c10be470b9c8e,5,,"Produto bom, prático e fácil manuseio . Recomendo a todos a comprarem. ",2016-10-20 00:00:00,2016-10-21 00:45:28
-0fa10d41c6cf521b26329abcee0e776b,31b0dd6152d2e471443debf037ae171d,5,,,2016-10-20 00:00:00,2017-05-22 16:38:09
-d565a7363d2e9836a02775db90e54f3d,5cd498954e2b37d71b315166809b4bd7,1,,"Estou aguardando o restante da entrega, comprei e paguei 3 perfumes blackcaviar feminino e recebi 1 perfume, preciso de um retorno da empresa para recuperar o prejuízo .",2016-10-27 00:00:00,2016-10-27 10:41:59
-28cd00f4956ea3486b933f2ce623ced0,08edff712f0cd04883215bdb5b0d7c7f,5,,Entregue antes do prazo...,2016-10-26 00:00:00,2016-10-26 21:17:24
-8775f243d6ef066004334ad8e8e26896,fbbc9a4fa88f1ccd651790df665b3e57,4,,É um pouco difícil de mexer pois é inglês o papel de explicação e não é original também demora muito esquentar ,2016-10-29 00:00:00,2016-11-01 08:45:27
-9b5e1f71deb23a691a6fed9be65eb7b8,45bff70fb7b99a5a33bc8ccb3786e170,5,,,2016-10-25 00:00:00,2016-10-28 19:23:10
-4062b881e2dd16a2ea180333dcfbe5ca,8213bc96304fc0881189c4525f3002f7,5,,,2016-10-20 00:00:00,2016-10-21 15:58:28
-eda1c642a265c4fc22d278ebcf26140e,c46b48abd599551232324a6e9077bf19,5,,Produto entregue antes do prazo. ..,2016-10-22 00:00:00,2016-10-22 20:08:16
-30438651b2a9f883ff03c86129aed070,1970f2fb4b83ff962a75b064abc37f4c,5,,,2016-10-29 00:00:00,2016-10-31 11:33:50
-b5f4bca1dd2976aeb590dfe5d52c06f7,18dad78c0f87f4c45ef196daeaa3ffbb,5,,Tudo dentro do combinado,2016-10-18 00:00:00,2016-10-18 18:07:44
-5c0e0341b2115336ec6b975f5c8abfe8,d1eb8e4e276a4eea13a5c462c0765e60,5,,Recomendo ,2016-10-20 00:00:00,2016-10-21 01:13:00
-f266639fce13f7907e557a7be131277f,323dad8c483c7f8b818a825d257f4aa0,5,,,2016-10-19 00:00:00,2017-04-11 22:05:15
-429856d721b6d33c24c79f7c319c177d,2e8e21db96a8ab922e51cd297678c6b2,3,,O único problema foi que um dos potes veio com o vidro riscado. Como se tivessem esfregado algo. Acho que deveria ser melhor embalado para transporte. Mas tirando isso ok. Obrigada. ,2016-10-29 00:00:00,2016-10-30 12:13:33
-7d7a40160ccc9676b82f8f5bc35ba293,03ffce741877a000ca0fb3520673d4c4,5,,"Chegou bem antes do prazo, estou super feliz!",2016-10-26 00:00:00,2016-10-26 12:50:15
-75f6ff69ce8b427b7b3d6a5e643eb2f3,50f357099566f1be7abfaf8d9dc5b004,5,,,2016-10-22 00:00:00,2016-10-25 00:44:30
-3da21443e782f216e4ec61b84c8f5b69,ce9840efc17fbec501472f7c784be1bf,4,,,2016-10-25 00:00:00,2017-01-08 03:25:35
-192bead3e18d277bd91a840df47155cd,38c5c2886f2aab75bb1ae3f79a3f300d,5,,Vendedor muito bom. Recomendo. Nota 10.,2016-10-27 00:00:00,2016-10-27 17:42:46
-e04c5b55d009fa34754fe9d38c76d181,92b44b87f1f7670b8911c5f0e642435e,5,,,2016-10-22 00:00:00,2016-10-24 19:24:58
-499bbf4c80a2bfb703f60df742c3cb92,509a52223ecac6d67fb765b3b37c6974,5,,"Recebi o produto no prazo, em perfeitas condições. ",2016-10-27 00:00:00,2016-10-28 17:46:59
-715d3f3f7ef4c0d9dc0e8fc2b7d64d3c,a909c24a30d5a05204ecb7ef3f11e321,5,,"Com relação à compra e entrega, só tenho a elogiar.
-Muito obrigada!",2016-10-26 00:00:00,2016-10-26 21:56:49
-b28309e8253951a954123e039d3242f7,8beb59392e21af5eb9547ae1a9938d06,1,,Produto não foi entregue. Não foi enviada nota fiscal. Telefone para reclamação não funciona.,2016-10-20 00:00:00,2016-10-24 17:18:09
-9249dbcae1db6ede3dcbe41e17e54967,2fbb05b3ee700e1897b9fa501e416005,5,,Produto entregue dentro do prazo . Gostei muito.,2016-10-26 00:00:00,2016-10-27 12:55:27
-a0770c7851c2e39d59b2a378164979a0,6ece326e25f193d084e3dc092bbdd93b,4,,eu vejo como positivo esse vendedor bom produto e entrga no tempo combinado por este motivo simplesmente recomendo,2016-10-27 00:00:00,2016-10-27 23:57:32
-56a697a6c18ae87216ae4db18b32577b,35d3a51724a47ef1d0b89911e39cc4ff,5,,Excelente!Fui atendida antes do prazo estipulado e pude acompanhar pela internet por onde estava o produto e recebi embalado em perfeito estado.,2016-10-27 00:00:00,2016-10-28 12:04:18
-e9651b370d483da0e3997896680ac286,95d31d53ccc53bca2c13fcd535d67526,5,,Veio antes do prazo que era de 38 dias veio em 7 dias e eu to amando ,2016-10-18 00:00:00,2016-10-21 05:00:10
-c4f839d01cffa0ee89d827f28c0c2fae,719628a909505f12f342015fd53a8d43,5,,,2016-10-19 00:00:00,2016-10-20 11:56:57
+Recomendo! ",10/20/2016 0:00,10/21/2016 12:02
+e8162c435cc934213c57c53816811940,7d0eb8de17d494f4151e4470cd1b0605,4,,,10/18/2016 0:00,12/7/2016 2:59
+34bf3d03f9cbfadb1027ad3fa986931e,b3aa45b7ba0f950a1b163a9f85f613de,4,,,10/20/2016 0:00,10/31/2016 15:24
+22b25d1dc589a91876a6052e73043462,46046adea0e222a29259bad3d922fee8,5,,ok,10/27/2016 0:00,10/28/2016 18:01
+560630b759bebc99ef9b0a77d15a5067,b330d4bdde86ff11a726ee57dd2a7d75,4,,Entrega rápida bem embaladoproduto muito bomsó achei que fosse um pouquinho maior mas é lindo mesmo assim,10/18/2016 0:00,10/19/2016 0:49
+14ebbf02445a7002f16ac37eec124a6a,14b01335f19b97fce1437168032ae388,2,,faltou a almofada cocozinho na nota consta o produto mas o produto NÃO foi entregue,10/22/2016 0:00,10/22/2016 9:25
+0d10871e728d2c7034d8396a6fc65ed3,f31853a4f30d4851c847e4494663e749,2,,,10/25/2016 0:00,10/26/2016 11:34
+c6b4a4cae9b07536c1c9cc6ec57b8371,7a36fa82d4bcff7d936c10be470b9c8e,5,,Produto bom prático e fácil manuseio . Recomendo a todos a comprarem. ,10/20/2016 0:00,10/21/2016 0:45
+0fa10d41c6cf521b26329abcee0e776b,31b0dd6152d2e471443debf037ae171d,5,,,10/20/2016 0:00,5/22/2017 16:38
+d565a7363d2e9836a02775db90e54f3d,5cd498954e2b37d71b315166809b4bd7,1,,Estou aguardando o restante da entrega comprei e paguei 3 perfumes blackcaviar feminino e recebi 1 perfume preciso de um retorno da empresa para recuperar o prejuízo .,10/27/2016 0:00,10/27/2016 10:41
+28cd00f4956ea3486b933f2ce623ced0,08edff712f0cd04883215bdb5b0d7c7f,5,,Entregue antes do prazo...,10/26/2016 0:00,10/26/2016 21:17
+8775f243d6ef066004334ad8e8e26896,fbbc9a4fa88f1ccd651790df665b3e57,4,,É um pouco difícil de mexer pois é inglês o papel de explicação e não é original também demora muito esquentar ,10/29/2016 0:00,11/1/2016 8:45
+9b5e1f71deb23a691a6fed9be65eb7b8,45bff70fb7b99a5a33bc8ccb3786e170,5,,,10/25/2016 0:00,10/28/2016 19:23
+4062b881e2dd16a2ea180333dcfbe5ca,8213bc96304fc0881189c4525f3002f7,5,,,10/20/2016 0:00,10/21/2016 15:58
+eda1c642a265c4fc22d278ebcf26140e,c46b48abd599551232324a6e9077bf19,5,,Produto entregue antes do prazo. ..,10/22/2016 0:00,10/22/2016 20:08
+30438651b2a9f883ff03c86129aed070,1970f2fb4b83ff962a75b064abc37f4c,5,,,10/29/2016 0:00,10/31/2016 11:33
+b5f4bca1dd2976aeb590dfe5d52c06f7,18dad78c0f87f4c45ef196daeaa3ffbb,5,,Tudo dentro do combinado,10/18/2016 0:00,10/18/2016 18:07
+5c0e0341b2115336ec6b975f5c8abfe8,d1eb8e4e276a4eea13a5c462c0765e60,5,,Recomendo ,10/20/2016 0:00,10/21/2016 1:13
+f266639fce13f7907e557a7be131277f,323dad8c483c7f8b818a825d257f4aa0,5,,,10/19/2016 0:00,4/11/2017 22:05
+429856d721b6d33c24c79f7c319c177d,2e8e21db96a8ab922e51cd297678c6b2,3,,O único problema foi que um dos potes veio com o vidro riscado. Como se tivessem esfregado algo. Acho que deveria ser melhor embalado para transporte. Mas tirando isso ok. Obrigada. ,10/29/2016 0:00,10/30/2016 12:13
+7d7a40160ccc9676b82f8f5bc35ba293,03ffce741877a000ca0fb3520673d4c4,5,,Chegou bem antes do prazo estou super feliz!,10/26/2016 0:00,10/26/2016 12:50
+75f6ff69ce8b427b7b3d6a5e643eb2f3,50f357099566f1be7abfaf8d9dc5b004,5,,,10/22/2016 0:00,10/25/2016 0:44
+3da21443e782f216e4ec61b84c8f5b69,ce9840efc17fbec501472f7c784be1bf,4,,,10/25/2016 0:00,1/8/2017 3:25
+192bead3e18d277bd91a840df47155cd,38c5c2886f2aab75bb1ae3f79a3f300d,5,,Vendedor muito bom. Recomendo. Nota 10.,10/27/2016 0:00,10/27/2016 17:42
+e04c5b55d009fa34754fe9d38c76d181,92b44b87f1f7670b8911c5f0e642435e,5,,,10/22/2016 0:00,10/24/2016 19:24
+499bbf4c80a2bfb703f60df742c3cb92,509a52223ecac6d67fb765b3b37c6974,5,,Recebi o produto no prazo em perfeitas condições. ,10/27/2016 0:00,10/28/2016 17:46
+715d3f3f7ef4c0d9dc0e8fc2b7d64d3c,a909c24a30d5a05204ecb7ef3f11e321,5,,"Com relação à compra e entrega só tenho a elogiar.
+Muito obrigada!",10/26/2016 0:00,10/26/2016 21:56
+b28309e8253951a954123e039d3242f7,8beb59392e21af5eb9547ae1a9938d06,1,,Produto não foi entregue. Não foi enviada nota fiscal. Telefone para reclamação não funciona.,10/20/2016 0:00,10/24/2016 17:18
+9249dbcae1db6ede3dcbe41e17e54967,2fbb05b3ee700e1897b9fa501e416005,5,,Produto entregue dentro do prazo . Gostei muito.,10/26/2016 0:00,10/27/2016 12:55
+a0770c7851c2e39d59b2a378164979a0,6ece326e25f193d084e3dc092bbdd93b,4,,eu vejo como positivo esse vendedor bom produto e entrga no tempo combinado por este motivo simplesmente recomendo,10/27/2016 0:00,10/27/2016 23:57
+56a697a6c18ae87216ae4db18b32577b,35d3a51724a47ef1d0b89911e39cc4ff,5,,Excelente!Fui atendida antes do prazo estipulado e pude acompanhar pela internet por onde estava o produto e recebi embalado em perfeito estado.,10/27/2016 0:00,10/28/2016 12:04
+e9651b370d483da0e3997896680ac286,95d31d53ccc53bca2c13fcd535d67526,5,,Veio antes do prazo que era de 38 dias veio em 7 dias e eu to amando ,10/18/2016 0:00,10/21/2016 5:00
+c4f839d01cffa0ee89d827f28c0c2fae,719628a909505f12f342015fd53a8d43,5,,,10/19/2016 0:00,10/20/2016 11:56
 faf9ce3802b882a10bcd548f421ea9ff,5204d67853f827d1ee32810bf8f2d6c2,5,,"O produto chegou beeeeemmmm antes do prazo combinado.
-Muito bom, estou super satisfeita!!!",2016-10-18 00:00:00,2016-10-19 19:15:49
-b730a8019be04fb7e7ecebfccb98aeb9,ac00d3859c095d282f6bef69e0ed1b38,5,,Chegou antes do prazo e em perfeitas condições.,2016-10-25 00:00:00,2016-10-26 00:12:55
-19d4d3598ce092f36a955b72a90597d1,d3f7c0e804b501782903f7af749eb797,5,,,2016-10-19 00:00:00,2016-10-20 17:09:08
-1b8f5d1e38be4d33686056a434b0fa65,6eb51c1c9c69f78ea9fd4665fb98b7d2,4,,,2016-10-20 00:00:00,2016-10-23 01:25:24
-1e90e853bc88ad9caca6311a2e497399,0a0837a5eee9e7a9ce2b1fa831944d27,5,,,2016-10-25 00:00:00,2016-10-25 15:58:47
+Muito bom estou super satisfeita!!!",10/18/2016 0:00,10/19/2016 19:15
+b730a8019be04fb7e7ecebfccb98aeb9,ac00d3859c095d282f6bef69e0ed1b38,5,,Chegou antes do prazo e em perfeitas condições.,10/25/2016 0:00,10/26/2016 0:12
+19d4d3598ce092f36a955b72a90597d1,d3f7c0e804b501782903f7af749eb797,5,,,10/19/2016 0:00,10/20/2016 17:09
+1b8f5d1e38be4d33686056a434b0fa65,6eb51c1c9c69f78ea9fd4665fb98b7d2,4,,,10/20/2016 0:00,10/23/2016 1:25
+1e90e853bc88ad9caca6311a2e497399,0a0837a5eee9e7a9ce2b1fa831944d27,5,,,10/25/2016 0:00,10/25/2016 15:58
 3ec60dec755e23c788b026be90faa337,fb5114c39f632a52598cf770c6076620,1,,"Comprei uma capa para um tablet e a que foi entregue não foi a que escolhi no site da lannister.
 Não emitiram a nota fiscal do produto.
-Nunca mais compro nada desses parceiros da lannister.",2016-10-20 00:00:00,2016-10-20 22:37:13
-b5db92e4cce815ba464fb5fe3733cde8,76458889992169d3135b264dc13aec67,5,,,2016-10-22 00:00:00,2016-10-25 11:53:07
-1d05fc92b63e46f67761f2a33053fb64,b533dea24ada4dc5c1a9041d25d7c812,5,,"Abriram, sumiram com a nota, mas não era droga! Veio em caixa de Maggi. ",2016-10-29 00:00:00,2016-10-31 21:53:36
-984ab9fb9c9785407beb46bc068974e2,2825848807f070485f0f0ef3829758f4,5,,"Entrega antes do prazo, adorei meu produto,perfeito..",2016-10-19 00:00:00,2016-10-20 01:46:12
+Nunca mais compro nada desses parceiros da lannister.",10/20/2016 0:00,10/20/2016 22:37
+b5db92e4cce815ba464fb5fe3733cde8,76458889992169d3135b264dc13aec67,5,,,10/22/2016 0:00,10/25/2016 11:53
+1d05fc92b63e46f67761f2a33053fb64,b533dea24ada4dc5c1a9041d25d7c812,5,,Abriram sumiram com a nota mas não era droga! Veio em caixa de Maggi. ,10/29/2016 0:00,10/31/2016 21:53
+984ab9fb9c9785407beb46bc068974e2,2825848807f070485f0f0ef3829758f4,5,,Entrega antes do prazo adorei meu produtoperfeito..,10/19/2016 0:00,10/20/2016 1:46
 b8b1e3d3475e57893affe9798daad68d,d743f434cc2921729af830ce00d474b3,3,,"É bem bonita e bem acabada mais pena q veio a almofadinha d uma cor e a casinha de outra 😢
-Por esse motivo nao vou enche de estrelas 😭",2016-10-25 00:00:00,2016-10-28 00:50:19
-dc62f1e20d7f280e54066b6a92841086,be5bc2f0da14d8071e2d45451ad119d9,4,,Tudo certo...,2016-10-28 00:00:00,2016-10-29 11:29:53
-2ba0e39ea1f450e280e1dd700eb248e3,3f72d2b757e725cd48a4726f831c7789,3,,,2016-10-26 00:00:00,2016-10-27 23:05:25
+Por esse motivo nao vou enche de estrelas 😭",10/25/2016 0:00,10/28/2016 0:50
+dc62f1e20d7f280e54066b6a92841086,be5bc2f0da14d8071e2d45451ad119d9,4,,Tudo certo...,10/28/2016 0:00,10/29/2016 11:29
+2ba0e39ea1f450e280e1dd700eb248e3,3f72d2b757e725cd48a4726f831c7789,3,,,10/26/2016 0:00,10/27/2016 23:05
